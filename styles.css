@@ -1,0 +1,13 @@
+@media screen{
+ol {
+  color: blue;
+}
+h1{
+  text-align:center;
+  font-size: xx-large;
+  font-family:'Times New Roman', Times, serif;
+}
+div[class="special"] {
+  text-align:right;
+}
+}
